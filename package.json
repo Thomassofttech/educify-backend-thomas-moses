@@ -1,0 +1,24 @@
+{
+  "name": "educify-backend-thomas-moses",
+  "version": "1.0.0",
+  "description": "Backend APIs and server-side functionalities for Educify’s tutoring platform, developed using Node.js, Express.js, and PostgreSQL. Includes endpoints for tutors, students, lessons, payments, and authentication.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomassofttech/educify-backend-thomas-moses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomassofttech/educify-backend-thomas-moses/issues"
+  },
+  "homepage": "https://github.com/Thomassofttech/educify-backend-thomas-moses#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
