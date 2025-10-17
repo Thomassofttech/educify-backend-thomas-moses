@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Thomassofttech/educify-backend-thomas-moses#readme",
   "dependencies": {
     "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
